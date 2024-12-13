@@ -1,4 +1,5 @@
 # Mushroom Classification Project
+![](UTA-DataScience-Logo.png)
 
 ## Project Overview
 This project focuses on classifying mushrooms as either edible (safe for consumption) or poisonous using machine learning techniques. The dataset used for this classification task is the **Mushroom Classification Dataset** from Kaggle, which provides information about various physical characteristics of mushrooms.
